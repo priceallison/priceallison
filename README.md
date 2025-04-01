@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student at Augus
 - **Link:**
 
 ## 💬 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/allisonsprice)
+- [LinkedIn](https://www.linkedin.com/in/allisonsprice)
 
 Thanks for visiting! 😄
