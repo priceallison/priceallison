@@ -1,4 +1,4 @@
-# Hi, I'm Ally 👋
+# Hi, I'm Ally  👋
 
 Welcome to my GitHub profile! I'm a passionate computer science student at Augusta University with a passion for learning and problem solving. Here's a little bit about me:
 
