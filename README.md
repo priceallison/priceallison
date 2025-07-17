@@ -1,10 +1,11 @@
 # Hi, I'm Ally  👋
 
-Welcome to my GitHub profile! I'm a passionate computer science student at Augusta University with a passion for learning and problem solving. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a computer science student at Augusta University with a passion for problem solving and continuous learning.
 
 ## 🚀 About Me
-- 📝 I’m currently learning Git, low level programming, and AI
-- 💻 I’m currently working with my peers on a sliding tile number puzzle project in C# and Assembly
+- 💼 I intern with GA-AIM, where I engage with industry partners to help bridge the cybersecurity gap.
+- 📝 I’m currently learning about software development, operating systems, and hardware/embedded systems.
+- ➕ I'm also studying for Security+ and working on some personal projects, including a vulnerability scanner.
 - 🌱 I love to learn and experience new things. When I'm not coding, you can usually find me outdoors 🌳
 - ⚡ Fun fact: I'm half German!
 
@@ -12,13 +13,29 @@ Welcome to my GitHub profile! I'm a passionate computer science student at Augus
 - **Languages:** C#, Python, HTML/CSS, JavaScript, SQL, KQL
 - **Tools:** Git, VS Code, Azure, Microsoft Sentinel, Defender, Cisco Secure Endpoint
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=priceallison&show_icons=true&count_private=true&hide=prs&theme=radical)
-
+## 💼 Experience
+- Student Cybersecurity Analyst || SIEGE CyberOps || Augusta, GA || July 2024 – December 2024
+- Course Assistant for Computer Programming and Web Development || Augusta University || January 2024-July 2024
+  
+## 📈 Achievements and Highlights
+- Competed in NCAE-C 2024 VIVID Cybersecurity Competition – Augusta University || February 2024
+- Recommended for peer consultant role at AU Center for Writing Excellence || Two semesters
+- Recipient of many scholarships: VICEROY, Georgia HOPE, Last Mile Education Fund, WISP, and GFWC Success for Survivors
+- Women in Cybersecurity, Augusta University chapter – Social Media Manager || August 2023-December 2023
+- Girls Who Code, ACM, Cybersecurity and Computing Professionals - AU chapters – Member || August 2023-Current
+  
 ## 🔧 Projects
-### Coming soon
-- **Description:**
-- **Link:**
+
+### 🎮 Sliding Tile Number Puzzle Game (C#)
+- **Description:** A classic puzzle game where the player must arrange numbered tiles in ascending order by sliding them into an empty space. The board consists of a 3x3 or 4x4 grid with numbers 1–8 or 1–15, plus one empty space to allow movement.
+- **Link:** [View on GitHub](#)
+
+---
+
+### 🧩 Sliding Tile Number Puzzle Game (Assembly - MASM x86)
+- **Description:** This is the Assembly (MASM x86) version of the C# project above. It was significantly more complex due to the need for manually implementing low-level logic not provided by higher-level languages.
+- **Link:** [View on GitHub](#)
+
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/allisonsprice)
