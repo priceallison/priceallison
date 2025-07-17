@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a computer science student at Augusta Universi
 ## 📈 Achievements and Highlights
 - Competed in NCAE-C 2024 VIVID Cybersecurity Competition – Augusta University || February 2024
 - Recommended for peer consultant role at AU Center for Writing Excellence || Two semesters
-- Recipient of many scholarships: VICEROY, Georgia HOPE, Last Mile Education Fund, WISP, and GFWC Success for Survivors
 - Women in Cybersecurity, Augusta University chapter – Social Media Manager || August 2023-December 2023
 - Girls Who Code, ACM, Cybersecurity and Computing Professionals - AU chapters – Member || August 2023-Current
+- Recipient of many scholarships: VICEROY, Georgia HOPE, Last Mile Education Fund, WISP, and GFWC Success for Survivors
   
 ## 🔧 Projects
 
