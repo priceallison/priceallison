@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a computer science student at Augusta Universi
 - **Tools:** Git, VS Code, Azure, Microsoft Sentinel, Defender, Cisco Secure Endpoint
 
 ## 💼 Experience
+- Student Assistant || Georgia AIM Project || Augusta, GA || June 2025 – Current
 - Student Cybersecurity Analyst || SIEGE CyberOps || Augusta, GA || July 2024 – December 2024
 - Course Assistant for Computer Programming and Web Development || Augusta University || January 2024-July 2024
   
