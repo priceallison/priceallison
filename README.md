@@ -28,13 +28,14 @@ Welcome to my GitHub profile! I'm a computer science student at Augusta Universi
 
 ### 🎮 Sliding Tile Number Puzzle Game (C#)
 - **Description:** A classic puzzle game where the player must arrange numbered tiles in ascending order by sliding them into an empty space. The board consists of a 3x3 or 4x4 grid with numbers 1–8 or 1–15, plus one empty space to allow movement.
-- **Link:** [View on GitHub](#)
-
----
+- **Creators:** Ally Price, William Burnley, Anthony Gibson, and Jordan Pruner
+- **Link:** [View on GitHub](https://github.com/priceallison/tile-game-csharp)
 
 ### 🧩 Sliding Tile Number Puzzle Game (Assembly - MASM x86)
 - **Description:** This is the Assembly (MASM x86) version of the C# project above. It was significantly more complex due to the need for manually implementing low-level logic not provided by higher-level languages.
+- **Creators:** Ally Price, William Burnley, Anthony Gibson, and Jordan Pruner
 - **Link:** [View on GitHub](#)
+
 
 
 ## 💬 Let's Connect!
