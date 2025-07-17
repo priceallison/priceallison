@@ -34,8 +34,7 @@ Welcome to my GitHub profile! I'm a computer science student at Augusta Universi
 ### 🧩 Sliding Tile Number Puzzle Game (Assembly - MASM x86)
 - **Description:** This is the Assembly (MASM x86) version of the C# project above. It was significantly more complex due to the need for manually implementing low-level logic not provided by higher-level languages.
 - **Creators:** Ally Price, William Burnley, Anthony Gibson, and Jordan Pruner
-- **Link:** [View on GitHub](#)
-
+- **Link:** [View on GitHub](https://github.com/priceallison/tile-game-assembly
 
 
 ## 💬 Let's Connect!
