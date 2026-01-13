@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a computer science student at Augusta Universi
 ## 🚀 About Me
 - 💼 I intern with GA-AIM, where I engage with industry partners to help bridge the cybersecurity gap.
 - 📝 I’m currently learning about software development, operating systems, and hardware/embedded systems.
-- ➕ I'm also studying for Security+ and working on some personal projects, including a vulnerability scanner.
 - 🌱 I love to learn and experience new things. When I'm not coding, you can usually find me outdoors 🌳
 - ⚡ Fun fact: I'm half German!
 
